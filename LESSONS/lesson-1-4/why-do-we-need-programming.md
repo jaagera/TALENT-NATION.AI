@@ -1,3 +1,6 @@
+
+TOPIC: WHY DO WE NEED PROGRAMMING?
+
 > TRADITIONAL PROGRAMMING CANT BE REPLACED WITH AI.
 
 * Without programming: A human manually processes 10,000 transactions. Each transaction takes 30 seconds. Total time: 83 hours. Errors are likely because humans get tired, distracted, or bored. Each transaction costs money.
